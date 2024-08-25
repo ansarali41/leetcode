@@ -10,18 +10,19 @@
  * @return {ListNode}
  */
 var middleNode = function (head) {
-    let current = head;
-    let count = 0;
-    while (current != null) {
-        count++;
-        current = current.next;
+    if (head == null || head.next == null) {
+        return head;
     }
-    let mid = Math.floor(count / 2);
-    current = head;
-    while (mid--) {
-        current = current.next;
+
+    let slow = head;
+    let fast = head;
+
+    while (fast != null && fast.next != null) {
+        slow = slow.next;
+        fast = fast.next.next;
     }
-    return current;
+
+    return slow;
 
 };
 
@@ -38,4 +39,14 @@ mid -- 0
 current =3 {4,5} 
 
 return 3 {4,5}
+
+
+slow and first pointer:
+head = [1,2,3,4,5]
+        f   f   f=>next.null
+
+
+head = [1,2,3,4,5,6]
+        f   f   f    f =>null
+
 */
