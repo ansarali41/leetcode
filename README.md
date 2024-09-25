@@ -18,4 +18,20 @@
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/ansarali41/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/ansarali41/leetcode/tree/master/0206-reverse-linked-list) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/ansarali41/leetcode/tree/master/0100-same-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/ansarali41/leetcode/tree/master/0100-same-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/ansarali41/leetcode/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/ansarali41/leetcode/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
