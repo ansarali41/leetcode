@@ -45,8 +45,26 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ansarali41/leetcode/tree/master/0001-two-sum) |
+| [0268-missing-number](https://github.com/ansarali41/leetcode/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ansarali41/leetcode/tree/master/0001-two-sum) |
+| [0268-missing-number](https://github.com/ansarali41/leetcode/tree/master/0268-missing-number) |
+## Math
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/ansarali41/leetcode/tree/master/0268-missing-number) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/ansarali41/leetcode/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/ansarali41/leetcode/tree/master/0268-missing-number) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/ansarali41/leetcode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
