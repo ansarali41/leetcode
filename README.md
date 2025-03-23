@@ -12,6 +12,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/ansarali41/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0908-middle-of-the-linked-list](https://github.com/ansarali41/leetcode/tree/master/0908-middle-of-the-linked-list) |
 ## Recursion
 |  |
@@ -45,6 +46,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ansarali41/leetcode/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/ansarali41/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0268-missing-number](https://github.com/ansarali41/leetcode/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
