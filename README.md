@@ -55,6 +55,7 @@
 | [0268-missing-number](https://github.com/ansarali41/leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/ansarali41/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ansarali41/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [1603-running-sum-of-1d-array](https://github.com/ansarali41/leetcode/tree/master/1603-running-sum-of-1d-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -93,4 +94,8 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ansarali41/leetcode/tree/master/0020-valid-parentheses) |
+## Prefix Sum
+|  |
+| ------- |
+| [1603-running-sum-of-1d-array](https://github.com/ansarali41/leetcode/tree/master/1603-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
