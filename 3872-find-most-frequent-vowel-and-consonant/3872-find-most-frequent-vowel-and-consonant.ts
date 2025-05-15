@@ -1,36 +1,25 @@
 function maxFreqSum(s: string): number {
-    const vowelsMap = new Map;
-    const consonantsMap = new Map;
+    const vowels = new Set(['a', 'e', 'i', 'o', 'u']);
+    const vowelsFreq = new Map<string, number>();
+    const consonantsFreq = new Map<string, number>();
 
-    for (let i = 0; i < s.length; i++) {
-        // vowelsMap
-        if (s[i] === 'a' || s[i] === 'e' || s[i] === 'i' || s[i] === 'o' || s[i] === 'u') {
-            if (vowelsMap.has(s[i])) {
-                vowelsMap.set(s[i], vowelsMap.get(s[i]) + 1);
-            } else {
-                vowelsMap.set(s[i], 1);
-            }
-
+    for (const ch of s) {
+        if (vowels.has(ch)) {
+            vowelsFreq.set(ch, (vowelsFreq.get(ch) || 0) + 1);
         } else {
-            // consonantsMap
-            if (consonantsMap.has(s[i])) {
-                consonantsMap.set(s[i], consonantsMap.get(s[i]) + 1);
-            } else {
-                consonantsMap.set(s[i], 1);
-            }
+            consonantsFreq.set(ch, (consonantsFreq.get(ch) || 0) + 1)
         }
     }
-
-    let vMax = 0;
-    for (const [key, value] of vowelsMap) {
-        vMax = Math.max(value, vMax);
+    let maxVowel = 0;
+    for (const value of vowelsFreq.values()) {
+        maxVowel = Math.max(maxVowel, value)
     }
 
-
-    let cMax = 0;
-    for (const [key, value] of consonantsMap) {
-        cMax = Math.max(value, cMax);
+    let maxConsonant = 0;
+    for (const value of consonantsFreq.values()) {
+        maxConsonant = Math.max(maxConsonant, value)
     }
 
-    return vMax + cMax;
-};
+    return maxConsonant + maxVowel;
+
+}
