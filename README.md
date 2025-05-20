@@ -65,6 +65,7 @@
 | [0217-contains-duplicate](https://github.com/ansarali41/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ansarali41/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ansarali41/leetcode/tree/master/0268-missing-number) |
+| [0383-ransom-note](https://github.com/ansarali41/leetcode/tree/master/0383-ransom-note) |
 | [0560-subarray-sum-equals-k](https://github.com/ansarali41/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/ansarali41/leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Math
@@ -94,6 +95,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/ansarali41/leetcode/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/ansarali41/leetcode/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/ansarali41/leetcode/tree/master/0383-ransom-note) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/ansarali41/leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Stack
 |  |
@@ -112,5 +114,6 @@
 ## Counting
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/ansarali41/leetcode/tree/master/0383-ransom-note) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/ansarali41/leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 <!---LeetCode Topics End-->
