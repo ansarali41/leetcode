@@ -9,7 +9,7 @@ var findMaxConsecutiveOnes = function (nums) {
         if (nums[i] === 1) {
             currentMaxCount += 1;
         } else {
-            lastMaxCount = currentMaxCount > lastMaxCount ? currentMaxCount : lastMaxCount;
+            lastMaxCount = Math.max(currentMaxCount, lastMaxCount);
             currentMaxCount = 0;
         }
     }
