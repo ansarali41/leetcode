@@ -13,6 +13,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ansarali41/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0283-move-zeroes](https://github.com/ansarali41/leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/ansarali41/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0908-middle-of-the-linked-list](https://github.com/ansarali41/leetcode/tree/master/0908-middle-of-the-linked-list) |
 ## Recursion
@@ -55,6 +56,7 @@
 | [0049-group-anagrams](https://github.com/ansarali41/leetcode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/ansarali41/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/ansarali41/leetcode/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/ansarali41/leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/ansarali41/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/ansarali41/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/ansarali41/leetcode/tree/master/0347-top-k-frequent-elements) |
