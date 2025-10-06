@@ -128,6 +128,7 @@
 | [0225-implement-stack-using-queues](https://github.com/ansarali41/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/ansarali41/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0303-range-sum-query-immutable](https://github.com/ansarali41/leetcode/tree/master/0303-range-sum-query-immutable) |
+| [0969-number-of-recent-calls](https://github.com/ansarali41/leetcode/tree/master/0969-number-of-recent-calls) |
 ## Counting
 |  |
 | ------- |
@@ -155,4 +156,9 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/ansarali41/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/ansarali41/leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0969-number-of-recent-calls](https://github.com/ansarali41/leetcode/tree/master/0969-number-of-recent-calls) |
+## Data Stream
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/ansarali41/leetcode/tree/master/0969-number-of-recent-calls) |
 <!---LeetCode Topics End-->
