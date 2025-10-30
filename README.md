@@ -42,6 +42,7 @@
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/ansarali41/leetcode/tree/master/0175-combine-two-tables) |
+| [0182-duplicate-emails](https://github.com/ansarali41/leetcode/tree/master/0182-duplicate-emails) |
 | [0196-delete-duplicate-emails](https://github.com/ansarali41/leetcode/tree/master/0196-delete-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/ansarali41/leetcode/tree/master/0197-rising-temperature) |
 | [0620-not-boring-movies](https://github.com/ansarali41/leetcode/tree/master/0620-not-boring-movies) |
