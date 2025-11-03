@@ -56,6 +56,7 @@
 | [0001-two-sum](https://github.com/ansarali41/leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ansarali41/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0049-group-anagrams](https://github.com/ansarali41/leetcode/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/ansarali41/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ansarali41/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/ansarali41/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/ansarali41/leetcode/tree/master/0283-move-zeroes) |
@@ -71,6 +72,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/ansarali41/leetcode/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/ansarali41/leetcode/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/ansarali41/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ansarali41/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ansarali41/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ansarali41/leetcode/tree/master/0268-missing-number) |
@@ -97,6 +99,7 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/ansarali41/leetcode/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/ansarali41/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ansarali41/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ansarali41/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ansarali41/leetcode/tree/master/0268-missing-number) |
@@ -133,12 +136,14 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/ansarali41/leetcode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/ansarali41/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/ansarali41/leetcode/tree/master/0383-ransom-note) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/ansarali41/leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/ansarali41/leetcode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/ansarali41/leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
