@@ -67,6 +67,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/ansarali41/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ansarali41/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1603-running-sum-of-1d-array](https://github.com/ansarali41/leetcode/tree/master/1603-running-sum-of-1d-array) |
+| [1635-number-of-good-pairs](https://github.com/ansarali41/leetcode/tree/master/1635-number-of-good-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -79,12 +80,14 @@
 | [0347-top-k-frequent-elements](https://github.com/ansarali41/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/ansarali41/leetcode/tree/master/0383-ransom-note) |
 | [0560-subarray-sum-equals-k](https://github.com/ansarali41/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [1635-number-of-good-pairs](https://github.com/ansarali41/leetcode/tree/master/1635-number-of-good-pairs) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/ansarali41/leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Math
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/ansarali41/leetcode/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ansarali41/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [1635-number-of-good-pairs](https://github.com/ansarali41/leetcode/tree/master/1635-number-of-good-pairs) |
 ## Binary Search
 |  |
 | ------- |
@@ -139,6 +142,7 @@
 | [0169-majority-element](https://github.com/ansarali41/leetcode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/ansarali41/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/ansarali41/leetcode/tree/master/0383-ransom-note) |
+| [1635-number-of-good-pairs](https://github.com/ansarali41/leetcode/tree/master/1635-number-of-good-pairs) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/ansarali41/leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Divide and Conquer
 |  |
