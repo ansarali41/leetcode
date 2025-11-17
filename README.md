@@ -77,6 +77,7 @@
 | [0169-majority-element](https://github.com/ansarali41/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ansarali41/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ansarali41/leetcode/tree/master/0242-valid-anagram) |
+| [0264-ugly-number-ii](https://github.com/ansarali41/leetcode/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/ansarali41/leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/ansarali41/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/ansarali41/leetcode/tree/master/0383-ransom-note) |
@@ -87,6 +88,7 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/ansarali41/leetcode/tree/master/0204-count-primes) |
+| [0264-ugly-number-ii](https://github.com/ansarali41/leetcode/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/ansarali41/leetcode/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ansarali41/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1635-number-of-good-pairs](https://github.com/ansarali41/leetcode/tree/master/1635-number-of-good-pairs) |
@@ -154,6 +156,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0264-ugly-number-ii](https://github.com/ansarali41/leetcode/tree/master/0264-ugly-number-ii) |
 | [0347-top-k-frequent-elements](https://github.com/ansarali41/leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Bucket Sort
 |  |
@@ -181,4 +184,8 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/ansarali41/leetcode/tree/master/0204-count-primes) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0264-ugly-number-ii](https://github.com/ansarali41/leetcode/tree/master/0264-ugly-number-ii) |
 <!---LeetCode Topics End-->
