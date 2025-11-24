@@ -8,6 +8,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/ansarali41/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/ansarali41/leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0206-reverse-linked-list](https://github.com/ansarali41/leetcode/tree/master/0206-reverse-linked-list) |
+| [0622-design-circular-queue](https://github.com/ansarali41/leetcode/tree/master/0622-design-circular-queue) |
 | [0908-middle-of-the-linked-list](https://github.com/ansarali41/leetcode/tree/master/0908-middle-of-the-linked-list) |
 ## Two Pointers
 |  |
@@ -66,6 +67,7 @@
 | [0347-top-k-frequent-elements](https://github.com/ansarali41/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/ansarali41/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/ansarali41/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0622-design-circular-queue](https://github.com/ansarali41/leetcode/tree/master/0622-design-circular-queue) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ansarali41/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1603-running-sum-of-1d-array](https://github.com/ansarali41/leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1635-number-of-good-pairs](https://github.com/ansarali41/leetcode/tree/master/1635-number-of-good-pairs) |
@@ -139,6 +141,7 @@
 | [0225-implement-stack-using-queues](https://github.com/ansarali41/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/ansarali41/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0303-range-sum-query-immutable](https://github.com/ansarali41/leetcode/tree/master/0303-range-sum-query-immutable) |
+| [0622-design-circular-queue](https://github.com/ansarali41/leetcode/tree/master/0622-design-circular-queue) |
 | [0969-number-of-recent-calls](https://github.com/ansarali41/leetcode/tree/master/0969-number-of-recent-calls) |
 ## Counting
 |  |
@@ -171,6 +174,7 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/ansarali41/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/ansarali41/leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0622-design-circular-queue](https://github.com/ansarali41/leetcode/tree/master/0622-design-circular-queue) |
 | [0969-number-of-recent-calls](https://github.com/ansarali41/leetcode/tree/master/0969-number-of-recent-calls) |
 ## Data Stream
 |  |
