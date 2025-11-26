@@ -56,6 +56,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ansarali41/leetcode/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/ansarali41/leetcode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ansarali41/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0049-group-anagrams](https://github.com/ansarali41/leetcode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/ansarali41/leetcode/tree/master/0169-majority-element) |
@@ -118,6 +119,7 @@
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/ansarali41/leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/ansarali41/leetcode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/ansarali41/leetcode/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/ansarali41/leetcode/tree/master/0125-valid-palindrome) |
@@ -194,4 +196,8 @@
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/ansarali41/leetcode/tree/master/0264-ugly-number-ii) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/ansarali41/leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
