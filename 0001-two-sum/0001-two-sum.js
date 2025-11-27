@@ -3,15 +3,15 @@
  * @param {number} target
  * @return {number[]}
  */
-var twoSum = function(nums, target) {
-    let storage = new Map();
-   for(let i=0; i<nums.length; i++){
-       let value = nums[i];
-      let complement_pair = target - value;
-      if(storage.has(complement_pair)){
-          return [storage.get(complement_pair),i]
-      }else{
-          storage.set(value, i)
-      }
-   }
+var twoSum = function (nums, target) {
+    const myHasMap = new Map();
+
+    for (let i = 0; i < nums.length; i++) {
+        const subtract = target - nums[i];
+        if (myHasMap.has(subtract)) {
+
+            return [myHasMap.get(subtract), i]
+        }
+        myHasMap.set(nums[i], i);
+    }
 };
